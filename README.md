@@ -16,17 +16,17 @@ python3 main.py
 
 It writes the word below to `/output/entry.txt` (or to the path given as
 the first argument, or `$OUTPUT_PATH`). No network, no clock, no
-randomness. The word is 14 characters, inside the 1 to 24 gate.
+randomness. The word is 9 characters, inside the 1 to 24 gate.
 
 ## The word
 
 ```
-defenestration
+petrichor
 ```
 
-Surprising, vivid, and with a spark of wit: the act of throwing
-someone out of a window, and by extension removing them from power.
-A clear image, an unexpected word, and a second meaning that rewards
+Surprising, vivid, and with a spark of wit: the smell of rain falling
+on dry earth, a word most people have felt but never named. A clear
+sense image, an unexpected word, and a second meaning that rewards
 a second look.
 
 ## License
